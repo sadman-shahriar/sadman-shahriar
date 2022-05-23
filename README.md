@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://thumbs.gfycat.com/ThirstyHospitableFlee.webp" height="80px" width="80px">, I'm Sadman Shahriar 
 <h3> 
-<div align="center"> <img  src='https://cdn.dribbble.com/users/2514124/screenshots/6617938/800x600.gif' width='150px'> </div>
+<div align="center"> <img  src='https://cdn.dribbble.com/users/2514124/screenshots/6617938/800x600.gif' width='400px'> </div>
 
 <div align="center"> Programmer | Day Trader | Learner </div>
 
