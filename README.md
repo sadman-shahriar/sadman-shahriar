@@ -66,5 +66,5 @@ href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://
 
 <div align="center"> <img  src='https://thumbs.gfycat.com/CourageousTalkativeCollie.webp' width='300px'> </div>
 
-<style>.heart{color:#e25555;}</style>
+
 Made with <span class="heart">♥</span>  by Sadman Shahriar
