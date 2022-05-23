@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://thumbs.gfycat.com/ThirstyHospitableFlee.webp" height="80px" width="80px">, I'm Sadman Shahriar 
 <h3> 
-<div align="center"> <img  src='https://c.tenor.com/3bAfhrgG2AIAAAAi/markets-trading.gif' width='400px'> </div>
+<div align="center"> <img  src='https://c.tenor.com/3bAfhrgG2AIAAAAi/markets-trading.gif' width='200px'> </div>
 
-<div align="center"> Programmer | Day Trader | Learner </div>
+<div align="center"> Programmer | Investor | Learner </div>
 
 <div align="center"> <img  src='https://thumbs.gfycat.com/RegularAjarHind.webp' width='100px'></h3>  </div>
 
