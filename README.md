@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://thumbs.gfycat.com/ThirstyHospitableFlee.webp" height="55px" width="55px">, I'm Sadman Shahriar 
+<h1 align="center">Hi <img src="https://thumbs.gfycat.com/ThirstyHospitableFlee.webp" height="80px" width="80px">, I'm Sadman Shahriar 
 <h3> 
 <div align="center"> <img  src='https://thumbs.gfycat.com/CharmingWholeArmadillo.webp' width='150px'> </div>
 
