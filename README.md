@@ -1,4 +1,4 @@
-<h1 align="center">Howdy<img src="https://github.com/sadman-shahriar/sadman-shahriar/blob/main/Wave.gif" height="55px" width="55px">, I'm Sadman Shahriar 
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Sadman Shahriar 
 <h3> 
 <div align="center"> <img  src='https://thumbs.gfycat.com/CharmingWholeArmadillo.webp' width='150px'> </div>
 
