@@ -2,7 +2,7 @@
 <h3> 
 <div align="center"> <img  src='https://thumbs.gfycat.com/CharmingWholeArmadillo.webp' width='150px'> </div>
 
-Programmer | Day Trader | Learner
+<div align="center"> Programmer | Day Trader | Learner </div>
 
 <div align="center"> <img  src='https://thumbs.gfycat.com/RegularAjarHind.webp' width='100px'></h3>  </div>
 
