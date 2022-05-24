@@ -64,7 +64,7 @@ href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://
 
 <br>
 
-<div align="center"> <img  src='https://cdn.dribbble.com/users/2514124/screenshots/6617938/800x600.gif' width='250px'> </div>
+<div align="center"> <img  src='https://cdn.dribbble.com/users/2514124/screenshots/6617938/800x600.gif' width='350px'> </div>
 
 
 Made with <span class="heart">♥</span>  by Sadman Shahriar
