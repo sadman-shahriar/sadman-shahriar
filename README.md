@@ -2,7 +2,7 @@
 <h3> 
 <div align="center"> <img  src='https://cdn.dribbble.com/users/1003944/screenshots/14561765/media/7a15e42a60fee3cc53daa6e7f8514bc2.gif' width='200px'> </div>
 
-<div align="center">Trader | Paradoxical | Learner</div>
+<div align="center">Paradoxical Trader | Learner</div>
 
 <div align="center"> <img  src='https://thumbs.gfycat.com/RegularAjarHind.webp' width='100px'></h3>  </div>
 
