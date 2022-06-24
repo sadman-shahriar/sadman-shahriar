@@ -24,6 +24,8 @@
 
 - 😆 Fun Fact : **I can speak four different languages: English, Hindi, Bangla and Urdu**
 
+[![](https://visitcount.itsvg.in/api?id=sadman-shahriar&icon=3&color=9)](https://visitcount.itsvg.in)
+
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 <img alt="sadman-shahriar/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=sadman-shahriar&amp;count_private=true&amp;show_icons=true"/>
 	<img alt="sadman-shahriar/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadman-shahriar&amp;theme=github_dark"/>
@@ -55,7 +57,7 @@ href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sadman-shahriar&icon=3&color=9)](https://visitcount.itsvg.in)
+
 
   ## Buy me a Coffee <img  src='https://thumbs.gfycat.com/NeatFreshHedgehog.webp' width='50px'>
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sadman) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sadman_shahriar) 
