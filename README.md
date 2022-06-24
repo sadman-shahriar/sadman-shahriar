@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&size=36&vCenter=true&lines=I'm+Sadman+Shahriar)](https://git.io/typing-svg)
 
-<div align="center"> <img  src='https://cdn.dribbble.com/users/1003944/screenshots/14561765/media/7a15e42a60fee3cc53daa6e7f8514bc2.gif' width='100px'> </div>
+<div align="center"> <img  src='https://cdn.dribbble.com/users/1003944/screenshots/14561765/media/7a15e42a60fee3cc53daa6e7f8514bc2.gif' width='150px'> </div>
 
 <div align="center">Paradoxical Trader | Learner</div>
 
