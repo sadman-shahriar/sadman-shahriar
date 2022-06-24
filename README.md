@@ -26,7 +26,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=sadman-shahriar&icon=3&color=9)](https://visitcount.itsvg.in)
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif' width='32px'> </h2>
 <img alt="sadman-shahriar/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=sadman-shahriar&amp;count_private=true&amp;show_icons=true"/>
 	<img alt="sadman-shahriar/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadman-shahriar&amp;theme=github_dark"/>
 	<img alt="sadman-shahriar/streak" src="https://github-readme-streak-stats.herokuapp.com?user=sadman-shahriar&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
