@@ -6,12 +6,6 @@
 
 <div align="center">Paradoxical Trader | Learner</div>
 
-<div align="center"> <img  src='https://thumbs.gfycat.com/RegularAjarHind.webp' width='100px'></h3>  </div>
-
-<div align="center">
-<img width="100%" height = "100%" src="https://github.com/sadman-shahriar/sadman-shahriar/blob/main/26206.gif" alt="cover" />
-</div>
-
 <h2> About Me <img src=https://c.tenor.com/27kP4pPliZwAAAAi/rocket-fly.gif' width='30px'> </h2>
 
 - 🔭 I’m currently working on **Personal Skill Development**
